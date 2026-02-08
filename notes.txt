@@ -1,0 +1,5 @@
+1. npm init -y
+2. npm i -D typescript
+3. npx tsc --init
+4. make src and dist directory
+5. npx tsc
