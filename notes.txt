@@ -3,3 +3,14 @@
 3. npx tsc --init
 4. make src and dist directory
 5. npx tsc
+
+1. Basic Types
+    (a) string, number, boolean
+    (b) Type Inference - TypeScript khud samajh jata hai
+    (c) any Type (Dangerous 🚨) - TypeScript off
+    (d) unknown (Better than any)
+    (e) void & never
+
+    - Arrays
+    - Tuples (Fixed length array)
+    
